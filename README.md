@@ -1,7 +1,6 @@
 # itweichat
 ***
 ---
-———
 simple wechat friends area distribution and etc
 usage:
 python itchat_stat.py
